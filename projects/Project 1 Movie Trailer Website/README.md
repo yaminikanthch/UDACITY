@@ -41,5 +41,5 @@ Added the release date to the Movie class, which is also displayed on the websit
 Changed the background and text colour to create a dark theme for the website.
 Added subtle drop shadow to the movie poster images.
 
-##Miscellaneous
+## Miscellaneous
 This README document is based on a template suggested from Udacity forum post.
