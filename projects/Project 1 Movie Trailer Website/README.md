@@ -16,9 +16,9 @@ Python 2.x or higher version is required to run this project. The Python executa
 
 This project consists for the following files:
 
-entertainment_center.py - main Python script to run
-media.py - contains the class Movie that stores movie details
-fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
+* entertainment_center.py - main Python script to run
+* media.py - contains the class Movie that stores movie details
+* fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
 
 ## How to Run Project
 
