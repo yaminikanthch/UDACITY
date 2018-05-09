@@ -32,5 +32,14 @@ python entertainment_center.py
 
 Your default browser should launch a new tab displaying the movie trailer website.
 
+## Extra Credit Description
+
+The following features were implemented to gain an extra credit from Udacity:
+
+* Title: Title of the movie.
+* Storyline: A string to store the basic plot of the movie.
+* Poster_image_url: A string to store the URL of the movie poster.
+* Trailer_youtube_url: A string to store the URL of the movie trailer.
+
 ## Miscellaneous
 This README document is based on a template suggested from Udacity forum post.
