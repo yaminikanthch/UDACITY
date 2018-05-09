@@ -25,3 +25,4 @@ Trailer_youtube_url: A string to store the URL of the movie trailer.'''
         '''Plays the movie trailer in the web browser.'''
         webbrowser.open(self.youtube_trailer)
 
+
