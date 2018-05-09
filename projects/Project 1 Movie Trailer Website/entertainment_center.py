@@ -64,3 +64,4 @@ movies = [toy_story, avatar, avengers, thor, antman, deadpool]
 # Open the movie website in the browser,
 # featuring the movies above displayed in the list.
 fresh_tomatoes.open_movies_page(movies)
+
