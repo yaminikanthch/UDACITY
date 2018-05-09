@@ -1,4 +1,4 @@
-#Defines the Movie class that contains the details of a movie."""
+'''Defines the Movie class that contains the details of a movie.'''
 
 import webbrowser;
 
@@ -20,7 +20,7 @@ class Movie():
 
     def show_trailer(self):
 
-        #Plays the movie trailer in the web browser."""
+        #Plays the movie trailer in the web browser.
         webbrowser.open(self.youtube_trailer);
         
         
