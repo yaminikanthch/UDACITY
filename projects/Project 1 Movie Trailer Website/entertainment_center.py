@@ -1,9 +1,9 @@
-#Stores details of movies and displays to a webbrowser.
+'''Stores details of movies and displays to a webbrowser.'''
 
 import fresh_tomatoes;
 import media;
 
-#Creates six Movie objects, initialising these objects with title, storyline,poster image link and youtube video trailer link"""
+'''Creates six Movie objects, initialising these objects with title, storyline,poster image link and youtube video trailer link"""
 
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
