@@ -1,0 +1,97 @@
+
+body {
+    /*Body is defined with the below properties and styles*/
+    font-family: Roboto, Arial, sans-serif;
+    color: black;
+    font-weight: 200;
+}
+
+
+hr {
+    /* to draw a horizontal line */
+    border-top: 1.5px solid #bbb;
+}
+
+article { 
+    display: block;
+}
+
+.text-muted {
+    /* muted Text decoration*/
+    color: #666756;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+.text-thin {
+    font-weight: 100;
+}
+.title-super {
+    font-size: 30px;
+    font-weight: bold;
+    color: #666756;
+}
+.title-logo {
+    margin-top: 20px;
+}
+.modal-title {
+    text-align: center;
+}
+.img-responsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 767px) {
+    /* Code to center the logo and title text goes here */
+    .title-logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .title-super {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .sub-title {
+        text-align: center;
+    }
+    .text-muted {
+        text-align: center;
+    }
+    .modal-title {
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width:768px) and (max-width:1199px) {
+/* Code to miz and max width of a window. */
+    .title-logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .title-super {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .sub-title {
+        text-align: center;
+    }
+    .text-muted {
+        text-align: center;
+    }
+    .img-responsive {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .modal-title {
+        text-align: center;
+    }
+}
